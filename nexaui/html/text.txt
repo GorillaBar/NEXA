@@ -1,0 +1,20 @@
+<span id="a">root@nexa.cc</span>:<span id="b">~</span><span id="c">$</span> cd home/users/nexa/
+<span id="a">root@nexa.cc</span>:<span id="b">~</span><span id="c">$</span> ls
+info.txt socials.txt
+<span id="a">root@nexa.cc</span>:<span id="b">~</span><span id="c">$</span> cat info.txt<br/><br/>
+<p><b>Info</b> 
+
+Name: nexa
+Established: July 2023
+Location: United Kingdom
+Loading Song: Strandz - Us Against The World</p>
+
+<span id="a">root@nexa.cc</span>:<span id="b">~</span><span id="c">$</span> cat socials.txt<br/><br/>
+<p><b>Socials</b>
+
+<i class="fab fa-twitter"></i> <a href="https://twitter.com/nexacc">@nexacc</a>
+<i class="fab fa-tiktok"></i> <a href="https://tiktok.com/@nexacc">@nexacc</a>
+<i class="fab fa-discord"></i> <a href="https://discord.gg/nexa">discord.gg/nexacc</a>
+<i class="fa fa-globe"></i> <a href="https://nexa.cc">nexa.cc</a>
+
+<p><small>Copyright <i class="fa fa-copyright"></i> 2023 - <a href="#">https://nexa.cc</a></small></p>
